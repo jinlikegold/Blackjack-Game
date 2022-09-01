@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url("table.jpg");
+    background-size: cover;
+
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 30px;
+}
+
+p { 
+    font-size: 16px;
+}
+
+#greeting-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    font-weight: 600;
+    background-color: goldenrod;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 2px;
+}
